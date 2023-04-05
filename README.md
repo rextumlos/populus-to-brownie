@@ -1,6 +1,6 @@
 # Populus? CHANGE TO BROWNIE
 
-## This repository is for using brownie instead of populus from the book of "Hands-On Blockchain for Python Developers" for Chapter 06.
+## This repository is for using brownie instead of populus from the book of "Hands-On Blockchain for Python Developers" for Chapters 05 and 06.
 
 ## How to install?
 Visit this link: [https://chain.link/bootcamp/brownie-setup-instructions]
